@@ -1,0 +1,193 @@
+{
+  "flow": [
+    {
+      "inputFlow": 92527, 
+      "outputFlow": 82990, 
+      "source": "10.66.208.62", 
+      "target": "106.38.199.36",
+      "time": "20:10"
+    }, 
+    {
+      "inputFlow": 71591, 
+      "outputFlow": 79641, 
+      "source": "10.66.208.62", 
+      "target": "10.59.253.157",
+      "time": "20:10"
+    }, 
+    {
+      "inputFlow": 23581, 
+      "outputFlow": 37298, 
+      "source": "10.66.208.62", 
+      "target": "117.34.34.16",
+      "time": "20:10"
+    },
+    {
+      "inputFlow": 83746, 
+      "outputFlow": 29364, 
+      "source": "10.66.208.62", 
+      "target": "106.38.199.36",
+      "time": "20:15"
+    }, 
+    {
+      "inputFlow": 63748, 
+      "outputFlow": 20974, 
+      "source": "10.66.208.62", 
+      "target": "10.59.253.157",
+      "time": "20:15"
+    }, 
+    {
+      "inputFlow": 73648, 
+      "outputFlow": 73647, 
+      "source": "10.66.208.62", 
+      "target": "117.34.34.16",
+      "time": "20:15"
+    },
+    {
+      "inputFlow": 73648, 
+      "outputFlow": 36473, 
+      "source": "10.66.208.62", 
+      "target": "106.38.199.36",
+      "time": "20:20"
+    }, 
+    {
+      "inputFlow": 85769, 
+      "outputFlow": 34475, 
+      "source": "10.66.208.62", 
+      "target": "10.59.253.157",
+      "time": "20:20"
+    }, 
+    {
+      "inputFlow": 47462, 
+      "outputFlow": 37463, 
+      "source": "10.66.208.62", 
+      "target": "117.34.34.16",
+      "time": "20:20"
+    },
+    {
+      "inputFlow": 37436, 
+      "outputFlow": 27362, 
+      "source": "10.66.208.62", 
+      "target": "106.38.199.36",
+      "time": "20:25"
+    }, 
+    {
+      "inputFlow": 94754, 
+      "outputFlow": 37436, 
+      "source": "10.66.208.62", 
+      "target": "10.59.253.157",
+      "time": "20:25"
+    }, 
+    {
+      "inputFlow": 37435, 
+      "outputFlow": 38436, 
+      "source": "10.66.208.62", 
+      "target": "117.34.34.16",
+      "time": "20:25"
+    },
+    {
+      "inputFlow": 46236, 
+      "outputFlow": 47362, 
+      "source": "10.66.208.62", 
+      "target": "106.38.199.36",
+      "time": "20:30"
+    }, 
+    {
+      "inputFlow": 43762, 
+      "outputFlow": 44332, 
+      "source": "10.66.208.62", 
+      "target": "10.59.253.157",
+      "time": "20:30"
+    }, 
+    {
+      "inputFlow": 84754, 
+      "outputFlow": 37464, 
+      "source": "10.66.208.62", 
+      "target": "117.34.34.16",
+      "time": "20:30"
+    },
+    {
+      "inputFlow": 46236, 
+      "outputFlow": 47362, 
+      "source": "10.66.208.62", 
+      "target": "106.38.199.36",
+      "time": "20:35"
+    }, 
+    {
+      "inputFlow": 43762, 
+      "outputFlow": 44332, 
+      "source": "10.66.208.62", 
+      "target": "10.59.253.157",
+      "time": "20:35"
+    }, 
+    {
+      "inputFlow": 84754, 
+      "outputFlow": 37464, 
+      "source": "10.66.208.62", 
+      "target": "117.34.34.16",
+      "time": "20:35"
+    },
+    {
+      "inputFlow": 92527, 
+      "outputFlow": 82990, 
+      "source": "10.66.208.62", 
+      "target": "106.38.199.36",
+      "time": "20:40"
+    }, 
+    {
+      "inputFlow": 71591, 
+      "outputFlow": 79641, 
+      "source": "10.66.208.62", 
+      "target": "10.59.253.157",
+      "time": "20:40"
+    }, 
+    {
+      "inputFlow": 23581, 
+      "outputFlow": 37298, 
+      "source": "10.66.208.62", 
+      "target": "117.34.34.16",
+      "time": "20:40"
+    },
+    {
+      "inputFlow": 83746, 
+      "outputFlow": 29364, 
+      "source": "10.66.208.62", 
+      "target": "106.38.199.36",
+      "time": "20:45"
+    }, 
+    {
+      "inputFlow": 63748, 
+      "outputFlow": 20974, 
+      "source": "10.66.208.62", 
+      "target": "10.59.253.157",
+      "time": "20:45"
+    }, 
+    {
+      "inputFlow": 73648, 
+      "outputFlow": 73647, 
+      "source": "10.66.208.62", 
+      "target": "117.34.34.16",
+      "time": "20:45"
+    },
+    {
+      "inputFlow": 53567, 
+      "outputFlow": 65467, 
+      "source": "10.66.208.62", 
+      "target": "106.38.199.36",
+      "time": "20:50"
+    }, 
+    {
+      "inputFlow": 67543, 
+      "outputFlow": 98757, 
+      "source": "10.66.208.62", 
+      "target": "10.59.253.157",
+      "time": "20:50"
+    }, 
+    {
+      "inputFlow": 53543, 
+      "outputFlow": 54345, 
+      "source": "10.66.208.62", 
+      "target": "117.34.34.16",
+      "time": "20:50"
+    }
+  ]
+}
